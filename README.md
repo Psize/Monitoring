@@ -2,7 +2,8 @@
 ## Задание 1)
 Скриншоты входа в админку Zabbix  -server
 <img width="1913" height="849" alt="image" src="https://github.com/user-attachments/assets/1424ffd6-705c-47b4-95e1-59671aeffcc6" />
-<img width="2544" height="1063" alt="image" src="https://github.com/user-attachments/assets/7d0df6a0-d0c8-4845-8dd1-f8c8a203068d" />
+<img width="2542" height="738" alt="image" src="https://github.com/user-attachments/assets/08359ede-73b1-4fd5-ab2b-014bd3e8cfbc" />
+
 
 
 Список команд для  установки:
