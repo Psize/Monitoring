@@ -27,7 +27,7 @@
 ## Задание  2)  
 
 <img width="2539" height="934" alt="image" src="https://github.com/user-attachments/assets/d56fc785-f440-4074-9ddd-49e869e5504f" />
-<img width="1037" height="481" alt="image" src="https://github.com/user-attachments/assets/2abc20e0-87de-4c9d-a292-f0039560c567" />
+<img width="1014" height="232" alt="image" src="https://github.com/user-attachments/assets/608a10ad-d993-4418-ba10-23d67cbe4495" />
 <img width="2542" height="1113" alt="image" src="https://github.com/user-attachments/assets/a0d89563-8179-40dc-8596-37bdf957817c" />
 <img width="2546" height="1049" alt="image" src="https://github.com/user-attachments/assets/c8f1a741-a34b-42e9-bd51-1e0f165c562e" />
 
